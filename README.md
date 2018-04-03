@@ -4,6 +4,13 @@
 * Control QR code link to some where.
 * Link to App Store or Google play.
 
+## Requirement 
+* node.js: 8.0.0+
+* npm: 5.0.0+
+
+## Built With
+* [serverless](https://github.com/serverless/serverless)
+
 ## How do I get set up? ##
 ```
 npm install serverless
